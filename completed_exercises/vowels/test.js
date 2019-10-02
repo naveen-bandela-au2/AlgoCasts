@@ -1,6 +1,6 @@
 const vowels = require('./index');
 
-test('Vowels is a function', () => {
+test('Vowels is to be  a function', () => {
   expect(typeof vowels).toEqual('function');
 });
 
